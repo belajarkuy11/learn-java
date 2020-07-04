@@ -10,7 +10,7 @@ from oracle ==> https://www.oracle.com/java/technologies/javase/javase-jdk8-down
 2. Open a terminal using Ctrl+Alt+T key combination
 
 3. Change a current directory to ~/<dir>
-cd ~/<dir>
+cd ~/<dir> ex:cd "/opt/latihan-java/open-jdk/"
 
 4. Unpack the tarball
 tar zxvf <name-of-jdk>.tar.gz
